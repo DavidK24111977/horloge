@@ -1,0 +1,10 @@
+.container{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+canvas{
+    border: 1px solid #ececec;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
